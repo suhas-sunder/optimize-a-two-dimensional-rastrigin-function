@@ -1,0 +1,12 @@
+2025-07-30 20:47:54,265 - pyswarms.single.global_best - INFO - Optimize for 100 iters with {'c1': 1.5, 'c2': 1.5, 'w': 0.7}
+2025-07-30 20:47:54,301 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 2.5305979534095968e-11, best pos: [-4.70560954e-08 -3.54037872e-07]
+2025-07-30 21:12:58,374 - pyswarms.single.global_best - INFO - Optimize for 100 iters with {'c1': 1.5, 'c2': 1.5, 'w': 0.7}
+2025-07-30 21:12:58,407 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 1.1626326568148215e-09, best pos: [-3.52860103e-07 -2.39494549e-06]
+2025-07-30 21:14:29,891 - pyswarms.single.global_best - INFO - Optimize for 100 iters with {'c1': 1.5, 'c2': 1.5, 'w': 0.7}
+2025-07-30 21:14:29,923 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 4.661337982270197e-10, best pos: [-1.53186363e-06  5.43071615e-08]
+2025-07-30 21:15:46,569 - pyswarms.single.global_best - INFO - Optimize for 100 iters with {'c1': 1.5, 'c2': 1.5, 'w': 0.7}
+2025-07-30 21:15:46,601 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 7.156856440815318e-09, best pos: [ 1.83931171e-06 -5.71762437e-06]
+2025-07-30 21:18:39,337 - pyswarms.single.global_best - INFO - Optimize for 100 iters with {'c1': 1.5, 'c2': 1.5, 'w': 0.7}
+2025-07-30 21:18:39,369 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 7.133849067031406e-12, best pos: [-9.81016252e-08 -1.62319595e-07]
+2025-07-30 22:15:25,705 - pyswarms.single.global_best - INFO - Optimize for 100 iters with {'c1': 1.5, 'c2': 1.5, 'w': 0.7}
+2025-07-30 22:15:25,737 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 2.1186963294894667e-10, best pos: [9.21760058e-07 4.67211178e-07]
