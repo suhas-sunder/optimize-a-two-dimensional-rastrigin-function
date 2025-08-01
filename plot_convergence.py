@@ -12,6 +12,7 @@ plt.plot(ga["Generation"], ga["BestFitness"], label="GA", linewidth=2)
 plt.plot(de["Generation"], de["BestFitness"], label="DE", linewidth=2)
 plt.plot(pso["Generation"], pso["BestFitness"], label="PSO", linewidth=2)
 
+# Customize plot
 plt.xlabel("Generation")
 plt.ylabel("Best Fitness (log scale)")
 plt.title("Convergence Comparison on Rastrigin Function")

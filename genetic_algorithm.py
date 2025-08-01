@@ -2,7 +2,7 @@ import random
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
-from deap import base, creator, tools, algorithms
+from deap import base, creator, tools, algorithms # Genetic Algorithm
 from utils.shared_rastrigin_fcn import rastrigin  # Rastrigin function implementation
 
 # Set random seed for reproducibility

@@ -1,8 +1,8 @@
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
-from pyswarms.single.global_best import GlobalBestPSO
-from utils.shared_rastrigin_fcn import rastrigin 
+from pyswarms.single.global_best import GlobalBestPSO # Particle Swarm Optimization
+from utils.shared_rastrigin_fcn import rastrigin # Rastrigin function
 
 # Objective function wrapper for PSO (accepts matrix of particles)
 def objective_function(particles):

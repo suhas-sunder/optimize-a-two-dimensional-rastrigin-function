@@ -1,8 +1,8 @@
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
-from scipy.optimize import differential_evolution
-from utils.shared_rastrigin_fcn import rastrigin  
+from scipy.optimize import differential_evolution # Differential Evolution
+from utils.shared_rastrigin_fcn import rastrigin  # Rastrigin function
 
 # Initialize list to store best fitness per generation
 best_fitness_history = []
